@@ -12,7 +12,8 @@
 ### 👨‍💻 About me:
 * **2020.09-till present:** HSE University student, Faculty of Computer Science, Bachelor’s Programme "Software Engineering"
 * **2021.09-2022.06:** HSE teaching assistant for algebra course
-* **2022.05-till present:** OZON Fintech Data Engineer Developer
+* **2022.05-2023.07:** OZON.ru Data Engineer Developer @ Fintech
+* **2023.08-till present:** OZON.ru Backend Developer (Go) @ Fintech
 
 ---
 ### 🔥 Main Languages and Stats:
