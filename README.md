@@ -13,8 +13,8 @@
 * **2020.09-till present:** HSE University student, Faculty of Computer Science, Bachelor’s Programme "Software Engineering"
 * **2021.09-2022.06:** HSE teaching assistant for algebra course
 * **2022.05-2023.07:** OZON.ru Data Engineer Developer @ Fintech
-* **2023.08-till present:** OZON.ru Backend Developer (Go) @ Fintech
-
+* **2023.08-2023.11:** OZON.ru Backend Developer (Go) @ Fintech
+* **2023.11-till present:** Avito.ru Backend Developer (Go) @ Jobs
 ---
 ### 🔥 Main Languages and Stats:
 <div>
