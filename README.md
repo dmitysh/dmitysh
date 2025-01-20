@@ -10,12 +10,14 @@
 </div>
 
 ### 👨‍💻 About me:
-* **2020.09-till present:** HSE University student, Faculty of Computer Science, Bachelor’s Programme "Software Engineering"
+#### Education:
+* **Bachelor's degree in Software Engineering** (HSE, Faculty of Computer Science). Grade: 8.36/10
+* **2024.09-till present:** HSE University student, Masters’s Programme "Digital Product Management"
+#### Work experience:
 * **2021.09-2022.06:** HSE teaching assistant for algebra course
-* **2022.05-2023.07:** OZON.ru Data Engineer Developer @ Fintech
-* **2023.08-2023.11:** OZON.ru Backend Developer (Go) @ Fintech (Invest platform)
-* **2023.11-2024.02:** Avito.ru Backend Developer (Go) @ Jobs
-* **2024.02-till present:** OZON.ru Backend Developer (Go) @ Fintech (ML platform)
+* **2022.05-2023.11:** OZON.ru Data Engineer Developer -> Golang Backend Developer @ Fintech (Invest platform)
+* **2023.11-2024.02:** Avito.ru Golang Backend Developer @ Jobs
+* **2024.02-till present:** OZON.ru Senior Golang Backend Developer @ Fintech (ML platform)
 ---
 ### 🔥 Main Languages and Stats:
 <div>
