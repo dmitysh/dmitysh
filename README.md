@@ -17,7 +17,8 @@
 * **2021.09-2022.06:** HSE teaching assistant for algebra course
 * **2022.05-2023.11:** OZON.ru Data Engineer Developer -> Golang Backend Developer @ Fintech (Invest platform)
 * **2023.11-2024.02:** Avito.ru Golang Backend Developer @ Jobs
-* **2024.02-till present:** OZON.ru Senior Golang Backend Developer @ Fintech (ML platform)
+* **2024.02-2025.10:** OZON.ru Senior Golang Backend Developer @ Fintech (ML platform)
+* **2025.10-till present:** Avito.ru Senior Golang Software Engineer @ Logistics Platform
 ---
 ### 🔥 Main Languages and Stats:
 <div>
